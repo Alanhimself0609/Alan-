@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "渝中区",
+        "density": 28600,
+        "greenRate": 0.18,
+        "transitScore": 92
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.525,
+              29.54
+            ],
+            [
+              106.585,
+              29.54
+            ],
+            [
+              106.59,
+              29.575
+            ],
+            [
+              106.545,
+              29.59
+            ],
+            [
+              106.515,
+              29.565
+            ],
+            [
+              106.525,
+              29.54
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南岸区",
+        "density": 12600,
+        "greenRate": 0.35,
+        "transitScore": 78
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.535,
+              29.47
+            ],
+            [
+              106.64,
+              29.47
+            ],
+            [
+              106.645,
+              29.535
+            ],
+            [
+              106.575,
+              29.545
+            ],
+            [
+              106.515,
+              29.52
+            ],
+            [
+              106.535,
+              29.47
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "江北区",
+        "density": 9800,
+        "greenRate": 0.32,
+        "transitScore": 84
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.52,
+              29.58
+            ],
+            [
+              106.635,
+              29.58
+            ],
+            [
+              106.65,
+              29.64
+            ],
+            [
+              106.57,
+              29.66
+            ],
+            [
+              106.5,
+              29.625
+            ],
+            [
+              106.52,
+              29.58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沙坪坝区",
+        "density": 7600,
+        "greenRate": 0.41,
+        "transitScore": 72
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.39,
+              29.52
+            ],
+            [
+              106.515,
+              29.52
+            ],
+            [
+              106.5,
+              29.625
+            ],
+            [
+              106.39,
+              29.635
+            ],
+            [
+              106.36,
+              29.575
+            ],
+            [
+              106.39,
+              29.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九龙坡区",
+        "density": 8900,
+        "greenRate": 0.37,
+        "transitScore": 75
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.41,
+              29.455
+            ],
+            [
+              106.535,
+              29.455
+            ],
+            [
+              106.515,
+              29.52
+            ],
+            [
+              106.42,
+              29.535
+            ],
+            [
+              106.375,
+              29.5
+            ],
+            [
+              106.41,
+              29.455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "渝北区",
+        "density": 5200,
+        "greenRate": 0.46,
+        "transitScore": 80
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.54,
+              29.64
+            ],
+            [
+              106.74,
+              29.635
+            ],
+            [
+              106.765,
+              29.75
+            ],
+            [
+              106.61,
+              29.79
+            ],
+            [
+              106.5,
+              29.71
+            ],
+            [
+              106.54,
+              29.64
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "巴南区",
+        "density": 3200,
+        "greenRate": 0.52,
+        "transitScore": 63
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              29.355
+            ],
+            [
+              106.675,
+              29.36
+            ],
+            [
+              106.67,
+              29.47
+            ],
+            [
+              106.535,
+              29.47
+            ],
+            [
+              106.455,
+              29.43
+            ],
+            [
+              106.5,
+              29.355
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

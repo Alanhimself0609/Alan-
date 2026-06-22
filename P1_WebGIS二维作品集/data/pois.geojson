@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "重庆交通大学南岸校区",
+        "type": "study",
+        "score": 92,
+        "desc": "个人学习与GIS开发作品集主场景"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57655,
+          29.49718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "图书馆",
+        "type": "study",
+        "score": 85,
+        "desc": "高频学习点，适合作为个人足迹POI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57485,
+          29.4982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "湖滨广场",
+        "type": "activity",
+        "score": 78,
+        "desc": "校园活动与旧物交换项目记录点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5782,
+          29.49755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "学生宿舍区",
+        "type": "life",
+        "score": 70,
+        "desc": "生活服务和15分钟生活圈分析节点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57285,
+          29.4965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "运动场",
+        "type": "sport",
+        "score": 82,
+        "desc": "篮球专项训练与体能管理记录点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57915,
+          29.49585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南坪商圈",
+        "type": "city",
+        "score": 88,
+        "desc": "城市公共服务与商业活力观察点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5681,
+          29.5251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长江索道",
+        "type": "city",
+        "score": 76,
+        "desc": "重庆城市地标与旅游可达性分析点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5843,
+          29.5613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "重庆北站",
+        "type": "transport",
+        "score": 95,
+        "desc": "轨道交通与城市门户节点"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.55145,
+          29.61215
+        ]
+      }
+    }
+  ]
+}
